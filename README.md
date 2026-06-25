@@ -30,7 +30,7 @@ This project is designed to demonstrate the implementation of Python fundamental
 
 ---
 
-[![Play Video](https://img.shields.io/badge/▶%20Play-Video-success?style=for-the-badge)](https://your-video-link.com)
+[![Play Video](https://img.shields.io/badge/▶%20Play-Video-success?style=for-the-badge)](https://drive.google.com/file/d/1R2vlmf4lhlaFCYxjgh3GYur0F29EBdZ5/view?usp=drive_link)
 
 ## Output of Code
 <img width="1047" height="729" alt="Screenshot 2026-06-24 100220" src="https://github.com/user-attachments/assets/852c349f-8a9c-418b-9648-32e1997317cb" />
